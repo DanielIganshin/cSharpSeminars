@@ -22,12 +22,26 @@
 
 // }
 
-int number = Convert.ToInt32(Console.ReadLine());
-int first = number%10;
-int second = number/10%10;
-int third = number/100;
-int sum = first + third;
-Console.WriteLine(first);
-Console.WriteLine(second);
-Console.WriteLine(third);
-Console.WriteLine(sum);
+// int number = Convert.ToInt32(Console.ReadLine());
+// int first = number%10;
+// int second = number/10%10;
+// int third = number/100;
+// int sum = first + third;
+// Console.WriteLine(first);
+// Console.WriteLine(second);
+// Console.WriteLine(third);
+// Console.WriteLine(sum);
+ 
+//  Console.WriteLine("Введите трехзначное число");
+//  int n = Convert.ToInt32(Console.ReadLine());
+//  int a = n / 100;
+//  int b = n % 10;
+//  int sum = (a + b); // /10
+//  if (n < 100 || n > 1000)
+//  {
+//     Console.Write("это не трехзначное число");
+//  }
+//  else
+//  {
+//     Console.Write($"сумма первого и третьего числа {n} = равна {sum} ");
+//  }
