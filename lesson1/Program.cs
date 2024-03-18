@@ -8,3 +8,6 @@ if(number1 == number2 * number2 )
     Console.WriteLine($"Квадрат числа {number2} равен {number1} ");
 }
 else Console.WriteLine("Квадрат числа {0} не равен {1} ", number2, number1);
+
+string word = Convert.ToString(Convert.ToInt32(Console.ReadLine()));
+Console.WriteLine(word);
