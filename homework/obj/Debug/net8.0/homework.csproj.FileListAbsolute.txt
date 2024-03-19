@@ -1,0 +1,15 @@
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/bin/Debug/net8.0/homework
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/bin/Debug/net8.0/homework.deps.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/bin/Debug/net8.0/homework.runtimeconfig.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/bin/Debug/net8.0/homework.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/bin/Debug/net8.0/homework.pdb
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/homework.AssemblyInfoInputs.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/homework.AssemblyInfo.cs
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/homework.csproj.CoreCompileInputs.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/homework.sourcelink.json
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/homework.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/refint/homework.dll
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/homework.pdb
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/homework.genruntimeconfig.cache
+/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/Debug/net8.0/ref/homework.dll
