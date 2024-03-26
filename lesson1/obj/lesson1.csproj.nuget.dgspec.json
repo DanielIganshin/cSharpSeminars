@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/lesson1.csproj": {}
+    "/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/lesson1.csproj": {}
   },
   "projects": {
-    "/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/lesson1.csproj": {
+    "/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/lesson1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/lesson1.csproj",
+        "projectUniqueName": "/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/lesson1.csproj",
         "projectName": "lesson1",
-        "projectPath": "/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/lesson1.csproj",
+        "projectPath": "/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/lesson1.csproj",
         "packagesPath": "/Users/daniligansin/.nuget/packages/",
-        "outputPath": "/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/obj/",
+        "outputPath": "/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daniligansin/.nuget/NuGet/NuGet.Config"

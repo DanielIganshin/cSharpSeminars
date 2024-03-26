@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/homework.csproj",
+      "projectUniqueName": "/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/homework.csproj",
       "projectName": "homework",
-      "projectPath": "/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/homework.csproj",
+      "projectPath": "/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/homework.csproj",
       "packagesPath": "/Users/daniligansin/.nuget/packages/",
-      "outputPath": "/Users/daniligansin/Desktop/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/",
+      "outputPath": "/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/homework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daniligansin/.nuget/NuGet/NuGet.Config"

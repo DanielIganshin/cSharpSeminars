@@ -46,14 +46,14 @@
 //     Console.Write($"сумма первого и третьего числа {n} = равна {sum} ");
 //  }
 
- Console.WriteLine(" Введите трехзначное число");
- string n = Console.ReadLine()!;
+//  Console.WriteLine(" Введите трехзначное число");
+//  string n = Console.ReadLine()!;
 
- if (Convert.ToInt32(n) < 100 || Convert.ToInt32(n) > 1000)
- {
-    Console.Write("это не трехзначное число");
- }
- else
- {
-    Console.WriteLine(Convert.ToInt32(Convert.ToString(n[0])) + Convert.ToInt32(Convert.ToString(n[2])));
- }
+//  if (Convert.ToInt32(n) < 100 || Convert.ToInt32(n) > 1000)
+//  {
+//     Console.Write("это не трехзначное число");
+//  }
+//  else
+//  {
+//     Console.WriteLine(Convert.ToInt32(Convert.ToString(n[0])) + Convert.ToInt32(Convert.ToString(n[2])));
+//  }
