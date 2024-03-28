@@ -1,0 +1,15 @@
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/lesson2.AssemblyInfoInputs.cache
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/lesson2.AssemblyInfo.cs
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/lesson2.csproj.CoreCompileInputs.cache
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/lesson2.sourcelink.json
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/bin/Debug/net8.0/lesson2
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/bin/Debug/net8.0/lesson2.deps.json
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/bin/Debug/net8.0/lesson2.runtimeconfig.json
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/bin/Debug/net8.0/lesson2.dll
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/bin/Debug/net8.0/lesson2.pdb
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/lesson2.dll
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/refint/lesson2.dll
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/lesson2.pdb
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/lesson2.genruntimeconfig.cache
+/Users/daniligansin/Desktop/Рабочий стол — MacBook Pro — Данил/Учеба/GeekBrains/Языки програмирования /cSharp/Seminars/lesson2/obj/Debug/net8.0/ref/lesson2.dll
